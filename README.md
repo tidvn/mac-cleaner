@@ -1,0 +1,1 @@
+# macos-uninstall-cleaner
